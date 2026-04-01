@@ -1,0 +1,4571 @@
+[
+  {
+    "o": "ABJ",
+    "d": "ADD",
+    "drop": [
+      "NBO"
+    ]
+  },
+  {
+    "o": "ACC",
+    "d": "ADD",
+    "drop": [
+      "NBO",
+      "ABV",
+      "LOS",
+      "BJS"
+    ]
+  },
+  {
+    "o": "ADD",
+    "d": "NBO",
+    "drop": [
+      "EBB"
+    ]
+  },
+  {
+    "o": "ADD",
+    "d": "SHJ",
+    "drop": [
+      "CAI"
+    ]
+  },
+  {
+    "o": "ADL",
+    "d": "CAN",
+    "drop": [
+      "SHA",
+      "TAO",
+      "CGO",
+      "NKG"
+    ]
+  },
+  {
+    "o": "AKL",
+    "d": "HAK",
+    "drop": [
+      "SHE"
+    ]
+  },
+  {
+    "o": "AKL",
+    "d": "HKG",
+    "drop": [
+      "WNZ",
+      "CSX",
+      "TAO",
+      "HGH",
+      "CGO"
+    ]
+  },
+  {
+    "o": "AKL",
+    "d": "SZX",
+    "drop": [
+      "HGH",
+      "CTU",
+      "NKG",
+      "SIA",
+      "BJS"
+    ]
+  },
+  {
+    "o": "AKU",
+    "d": "TAO",
+    "drop": [
+      "SZX",
+      "BJS",
+      "CAN",
+      "FOC",
+      "HAK",
+      "HGH",
+      "KHN",
+      "KWE",
+      "NNG",
+      "SHE",
+      "WUH",
+      "XMN"
+    ]
+  },
+  {
+    "o": "AMS",
+    "d": "AUH",
+    "drop": [
+      "BJS",
+      "KUL",
+      "HKG"
+    ]
+  },
+  {
+    "o": "AMS",
+    "d": "CAN",
+    "drop": [
+      "SHA",
+      "HGH",
+      "NKG"
+    ]
+  },
+  {
+    "o": "AMS",
+    "d": "DOH",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "AMS",
+    "d": "NYC",
+    "drop": [
+      "SAO"
+    ]
+  },
+  {
+    "o": "AMS",
+    "d": "XMN",
+    "drop": [
+      "WUH"
+    ]
+  },
+  {
+    "o": "ATH",
+    "d": "BEG",
+    "drop": [
+      "PAR"
+    ]
+  },
+  {
+    "o": "ATH",
+    "d": "DOH",
+    "drop": [
+      "AUH",
+      "SHA"
+    ]
+  },
+  {
+    "o": "ATL",
+    "d": "CLT",
+    "drop": [
+      "NYC",
+      "ORL",
+      "BOS",
+      "MIA",
+      "DTT"
+    ]
+  },
+  {
+    "o": "ATL",
+    "d": "SEL",
+    "drop": [
+      "HKG",
+      "CAN",
+      "SHA",
+      "BJS"
+    ]
+  },
+  {
+    "o": "AUH",
+    "d": "BJS",
+    "drop": [
+      "SZX"
+    ]
+  },
+  {
+    "o": "AUH",
+    "d": "SHA",
+    "drop": [
+      "CAN",
+      "CGO",
+      "CTU",
+      "WUH",
+      "SIA"
+    ]
+  },
+  {
+    "o": "BCN",
+    "d": "AUH",
+    "drop": [
+      "BJS"
+    ]
+  },
+  {
+    "o": "BCN",
+    "d": "BJS",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "BCN",
+    "d": "HKG",
+    "drop": [
+      "CAN",
+      "CGO",
+      "SZX",
+      "WUH",
+      "CTU"
+    ]
+  },
+  {
+    "o": "BER",
+    "d": "BJS",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "BIO",
+    "d": "FRA",
+    "drop": [
+      "MIL",
+      "BCN"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "AUH",
+    "drop": [
+      "DMM",
+      "DOH",
+      "RUH",
+      "NBO"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "BEG",
+    "drop": [
+      "VIE",
+      "FRA",
+      "ATH"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "BER",
+    "drop": [
+      "LIS",
+      "DUS",
+      "STR"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "BWN",
+    "drop": [
+      "KUL",
+      "BKI"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "CAN",
+    "drop": [
+      "HAN",
+      "SGN",
+      "BKI",
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "CGQ",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "CKG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "CMN",
+    "drop": [
+      "CAI",
+      "BCN"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "CSX",
+    "drop": [
+      "HAN"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "FRA",
+    "drop": [
+      "BER",
+      "OSL",
+      "STO",
+      "HAM",
+      "CPH"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "HEL",
+    "drop": [
+      "PRG",
+      "CPH",
+      "STO"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "HGH",
+    "drop": [
+      "KUL"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "KUL",
+      "HKT",
+      "CNX",
+      "HKG"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "LON",
+    "drop": [
+      "LIS"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "LXA",
+    "drop": [
+      "NAO",
+      "MIG",
+      "YBP",
+      "GYS"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "MEX",
+    "drop": [
+      "MTY",
+      "GDL",
+      "SAO",
+      "SCL"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "MUC",
+    "drop": [
+      "BER",
+      "HAM"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "NQZ",
+    "drop": [
+      "TAS"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "SHE",
+    "drop": [
+      "HKG",
+      "SEL"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "SIA",
+    "drop": [
+      "HAN"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "SZX",
+    "drop": [
+      "SGN",
+      "HAN",
+      "BKK",
+      "SIN"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "TAO",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "TYN",
+    "drop": [
+      "XNN"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "WUH",
+    "drop": [
+      "BKK",
+      "MFM",
+      "SGN",
+      "HAN",
+      "KUL"
+    ]
+  },
+  {
+    "o": "BJS",
+    "d": "WUX",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "BKK",
+    "d": "AUH",
+    "drop": [
+      "MCT",
+      "KHI",
+      "FRA",
+      "RUH",
+      "JED",
+      "MIL"
+    ]
+  },
+  {
+    "o": "BKK",
+    "d": "BWN",
+    "drop": [
+      "TPE",
+      "HKG",
+      "MNL"
+    ]
+  },
+  {
+    "o": "BKK",
+    "d": "DOH",
+    "drop": [
+      "MCT",
+      "FRA",
+      "IST"
+    ]
+  },
+  {
+    "o": "BKK",
+    "d": "TAO",
+    "drop": [
+      "SHA",
+      "HGH",
+      "CTU",
+      "SIA",
+      "BJS"
+    ]
+  },
+  {
+    "o": "BKK",
+    "d": "TNA",
+    "drop": [
+      "SIA",
+      "CTU",
+      "SHE",
+      "SHA",
+      "WUH"
+    ]
+  },
+  {
+    "o": "BLQ",
+    "d": "FRA",
+    "drop": [
+      "BER",
+      "PAR",
+      "BRU",
+      "CPH",
+      "VIE"
+    ]
+  },
+  {
+    "o": "BLQ",
+    "d": "MUC",
+    "drop": [
+      "BER",
+      "VIE",
+      "CPH",
+      "BRU"
+    ]
+  },
+  {
+    "o": "BLQ",
+    "d": "ZRH",
+    "drop": [
+      "CPH"
+    ]
+  },
+  {
+    "o": "BNE",
+    "d": "CAN",
+    "drop": [
+      "DPS",
+      "SHA"
+    ]
+  },
+  {
+    "o": "BNE",
+    "d": "SHA",
+    "drop": [
+      "TSN",
+      "BKK",
+      "WUH",
+      "NKG",
+      "CTU"
+    ]
+  },
+  {
+    "o": "BOG",
+    "d": "ATL",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "AUH",
+    "drop": [
+      "SIN",
+      "BKK"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "CLT",
+    "drop": [
+      "WAS",
+      "NYC",
+      "BUF",
+      "LAX",
+      "ATL"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "FRA",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "MSP",
+    "drop": [
+      "CHI"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "MUC",
+    "drop": [
+      "MAD",
+      "PAR",
+      "LON",
+      "IST",
+      "ROM"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "SEL",
+    "drop": [
+      "TPE",
+      "HKG",
+      "BKK",
+      "SIN",
+      "CAN"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "SLC",
+    "drop": [
+      "YVR",
+      "LAX"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "TYO",
+    "drop": [
+      "SEL",
+      "BJS",
+      "CAN",
+      "HKG"
+    ]
+  },
+  {
+    "o": "BOS",
+    "d": "ZRH",
+    "drop": [
+      "AMS",
+      "LON",
+      "MAD",
+      "BCN"
+    ]
+  },
+  {
+    "o": "BRU",
+    "d": "AMS",
+    "drop": [
+      "MIL",
+      "OSL",
+      "PRG",
+      "LON",
+      "VIE"
+    ]
+  },
+  {
+    "o": "BRU",
+    "d": "BJS",
+    "drop": [
+      "SIN",
+      "HKG",
+      "CAN",
+      "CTU"
+    ]
+  },
+  {
+    "o": "BRU",
+    "d": "CTU",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "BUD",
+    "d": "SHA",
+    "drop": [
+      "WNZ",
+      "CTU",
+      "CKG",
+      "SZX",
+      "SIA"
+    ]
+  },
+  {
+    "o": "BUE",
+    "d": "ADD",
+    "drop": [
+      "HKG",
+      "SHA"
+    ]
+  },
+  {
+    "o": "BUE",
+    "d": "ATL",
+    "drop": [
+      "MIA"
+    ]
+  },
+  {
+    "o": "BUE",
+    "d": "HOU",
+    "drop": [
+      "NYC",
+      "LAX"
+    ]
+  },
+  {
+    "o": "BZN",
+    "d": "SLC",
+    "drop": [
+      "LAS",
+      "SFO",
+      "LAX",
+      "SEA"
+    ]
+  },
+  {
+    "o": "BZX",
+    "d": "BJS",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "CAI",
+    "d": "AUH",
+    "drop": [
+      "RUH"
+    ]
+  },
+  {
+    "o": "CAI",
+    "d": "SHA",
+    "drop": [
+      "CTU",
+      "BJS",
+      "CAN",
+      "SZX"
+    ]
+  },
+  {
+    "o": "CAI",
+    "d": "SZX",
+    "drop": [
+      "CGO",
+      "BJS",
+      "HGH",
+      "CKG",
+      "CTU"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "ADD",
+    "drop": [
+      "EBB",
+      "DAR",
+      "ZNZ"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "AMS",
+    "drop": [
+      "HEL",
+      "MIL"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "BAH",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "BJS",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "CTU",
+    "drop": [
+      "BKK",
+      "HAN"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "DAR",
+    "drop": [
+      "ACC",
+      "NBO"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "DLC",
+    "drop": [
+      "TYO",
+      "SEL"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "CNX",
+      "SGN",
+      "HAN",
+      "KUL"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "KWI",
+    "drop": [
+      "RUH"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "SHE",
+    "drop": [
+      "TYO"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "TAO",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "CAN",
+    "d": "WUH",
+    "drop": [
+      "BKK",
+      "SGN"
+    ]
+  },
+  {
+    "o": "CGO",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "CGQ",
+    "d": "CKG",
+    "drop": [
+      "SIN",
+      "BKK"
+    ]
+  },
+  {
+    "o": "CGQ",
+    "d": "HET",
+    "drop": [
+      "HGH",
+      "CAN"
+    ]
+  },
+  {
+    "o": "CHI",
+    "d": "FRA",
+    "drop": [
+      "LON",
+      "PAR",
+      "MAD"
+    ]
+  },
+  {
+    "o": "CHI",
+    "d": "MUC",
+    "drop": [
+      "PAR"
+    ]
+  },
+  {
+    "o": "CHI",
+    "d": "SEL",
+    "drop": [
+      "HKG",
+      "SHA",
+      "BJS",
+      "CAN"
+    ]
+  },
+  {
+    "o": "CHI",
+    "d": "YOW",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "CKG",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "CKG",
+    "d": "CGQ",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "CKG",
+    "d": "SWA",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "CKY",
+    "d": "ADD",
+    "drop": [
+      "DKR",
+      "PAR"
+    ]
+  },
+  {
+    "o": "CLE",
+    "d": "CLT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "CLE",
+    "d": "WAS",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "CMB",
+    "d": "HKG",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "CMB",
+    "d": "SHA",
+    "drop": [
+      "CTU",
+      "CAN",
+      "BJS"
+    ]
+  },
+  {
+    "o": "CMH",
+    "d": "DFW",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "CMN",
+    "d": "AUH",
+    "drop": [
+      "IST"
+    ]
+  },
+  {
+    "o": "CPT",
+    "d": "ADD",
+    "drop": [
+      "WDH"
+    ]
+  },
+  {
+    "o": "CSX",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "CSX",
+    "d": "CGQ",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "CSX",
+    "d": "CKG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "CSX",
+    "d": "SHE",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "CTU",
+    "d": "ADD",
+    "drop": [
+      "ABV"
+    ]
+  },
+  {
+    "o": "CTU",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "SGN",
+      "HAN"
+    ]
+  },
+  {
+    "o": "CTU",
+    "d": "SHE",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "CTU",
+    "d": "SZX",
+    "drop": [
+      "SGN"
+    ]
+  },
+  {
+    "o": "CUN",
+    "d": "PTY",
+    "drop": [
+      "HAV"
+    ]
+  },
+  {
+    "o": "CZX",
+    "d": "BJS",
+    "drop": [
+      "MFM"
+    ]
+  },
+  {
+    "o": "CZX",
+    "d": "KMG",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "CZX",
+    "d": "SZX",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "DAC",
+    "d": "HKG",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "DAR",
+    "d": "ADD",
+    "drop": [
+      "LUN"
+    ]
+  },
+  {
+    "o": "DAR",
+    "d": "DOH",
+    "drop": [
+      "CAI",
+      "DXB"
+    ]
+  },
+  {
+    "o": "DAR",
+    "d": "KGL",
+    "drop": [
+      "EBB"
+    ]
+  },
+  {
+    "o": "DAT",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "DAT",
+    "d": "KMG",
+    "drop": [
+      "HKG",
+      "BKK"
+    ]
+  },
+  {
+    "o": "DEN",
+    "d": "ATL",
+    "drop": [
+      "CHI",
+      "LAX",
+      "NYC"
+    ]
+  },
+  {
+    "o": "DFW",
+    "d": "CLE",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "DFW",
+    "d": "TYO",
+    "drop": [
+      "SEL",
+      "BJS"
+    ]
+  },
+  {
+    "o": "DKR",
+    "d": "ADD",
+    "drop": [
+      "ABJ"
+    ]
+  },
+  {
+    "o": "DLC",
+    "d": "CAN",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "DLC",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "DOH",
+    "d": "JNB",
+    "drop": [
+      "NBO"
+    ]
+  },
+  {
+    "o": "DOH",
+    "d": "KGL",
+    "drop": [
+      "NBO"
+    ]
+  },
+  {
+    "o": "DTT",
+    "d": "CLT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "DTT",
+    "d": "SLC",
+    "drop": [
+      "YVR",
+      "LAX"
+    ]
+  },
+  {
+    "o": "DUB",
+    "d": "DOH",
+    "drop": [
+      "CTU",
+      "BKK"
+    ]
+  },
+  {
+    "o": "DUS",
+    "d": "AMS",
+    "drop": [
+      "ZRH",
+      "VIE"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "BJS",
+    "drop": [
+      "CKG",
+      "TAO",
+      "CTU"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "CMN",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "CTU",
+    "drop": [
+      "HKG",
+      "MLE"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "DOH",
+    "drop": [
+      "MCT",
+      "RUH",
+      "JED",
+      "BAK"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "HAK",
+    "drop": [
+      "CTU",
+      "KMG",
+      "SHA",
+      "CKG",
+      "HGH"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "HKG",
+    "drop": [
+      "CAN",
+      "SHA",
+      "HGH",
+      "BJS",
+      "WUH"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "KGL",
+    "drop": [
+      "JNB",
+      "NBO",
+      "ZNZ"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "PAR",
+    "drop": [
+      "LON",
+      "MIL"
+    ]
+  },
+  {
+    "o": "DXB",
+    "d": "ZRH",
+    "drop": [
+      "PRG",
+      "BEG"
+    ]
+  },
+  {
+    "o": "DYG",
+    "d": "BJS",
+    "drop": [
+      "SHE"
+    ]
+  },
+  {
+    "o": "EBB",
+    "d": "DOH",
+    "drop": [
+      "NBO"
+    ]
+  },
+  {
+    "o": "EVN",
+    "d": "DOH",
+    "drop": [
+      "DXB",
+      "AUH",
+      "CTU",
+      "BJS",
+      "SHA"
+    ]
+  },
+  {
+    "o": "FBM",
+    "d": "ADD",
+    "drop": [
+      "DAR"
+    ]
+  },
+  {
+    "o": "FIH",
+    "d": "ADD",
+    "drop": [
+      "EBB"
+    ]
+  },
+  {
+    "o": "FIH",
+    "d": "NBO",
+    "drop": [
+      "EBB"
+    ]
+  },
+  {
+    "o": "FLN",
+    "d": "BHZ",
+    "drop": [
+      "SAO"
+    ]
+  },
+  {
+    "o": "FLR",
+    "d": "ZRH",
+    "drop": [
+      "MIL",
+      "ROM",
+      "PAR"
+    ]
+  },
+  {
+    "o": "FOC",
+    "d": "CAN",
+    "drop": [
+      "KTI",
+      "BKK",
+      "HAN",
+      "SGN"
+    ]
+  },
+  {
+    "o": "FOC",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "FRA",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "FRA",
+    "d": "CHI",
+    "drop": [
+      "MBJ",
+      "SAO"
+    ]
+  },
+  {
+    "o": "FRA",
+    "d": "HKG",
+    "drop": [
+      "CKG",
+      "CGO",
+      "HGH",
+      "TAO",
+      "CTU"
+    ]
+  },
+  {
+    "o": "FRA",
+    "d": "WAS",
+    "drop": [
+      "MBJ"
+    ]
+  },
+  {
+    "o": "FRU",
+    "d": "CAN",
+    "drop": [
+      "HGH"
+    ]
+  },
+  {
+    "o": "FUK",
+    "d": "SIN",
+    "drop": [
+      "BKI",
+      "DPS",
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "GVA",
+    "d": "BJS",
+    "drop": [
+      "BKK",
+      "MFM",
+      "HKG"
+    ]
+  },
+  {
+    "o": "GVA",
+    "d": "FRA",
+    "drop": [
+      "OSL",
+      "BCN",
+      "ROM",
+      "PAR",
+      "BRU"
+    ]
+  },
+  {
+    "o": "GVA",
+    "d": "MUC",
+    "drop": [
+      "BCN",
+      "BRU",
+      "PRG",
+      "NCE",
+      "BER"
+    ]
+  },
+  {
+    "o": "GVA",
+    "d": "VIE",
+    "drop": [
+      "BCN",
+      "BUD",
+      "NCE",
+      "PRG",
+      "VCE"
+    ]
+  },
+  {
+    "o": "GVA",
+    "d": "ZRH",
+    "drop": [
+      "PAR",
+      "BRU",
+      "ROM",
+      "NCE",
+      "BER"
+    ]
+  },
+  {
+    "o": "GYS",
+    "d": "BJS",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "HAN",
+    "d": "CSX",
+    "drop": [
+      "SHA",
+      "BJS"
+    ]
+  },
+  {
+    "o": "HAN",
+    "d": "SZX",
+    "drop": [
+      "HGH",
+      "NKG",
+      "WUH",
+      "TAO",
+      "CGO"
+    ]
+  },
+  {
+    "o": "HEL",
+    "d": "SHA",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "HET",
+    "d": "BJS",
+    "drop": [
+      "YCU",
+      "SHE",
+      "CGO",
+      "TAO",
+      "WEH",
+      "TYN"
+    ]
+  },
+  {
+    "o": "HFE",
+    "d": "BJS",
+    "drop": [
+      "MFM"
+    ]
+  },
+  {
+    "o": "HFE",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "HGH",
+    "d": "BJS",
+    "drop": [
+      "HKG",
+      "MFM"
+    ]
+  },
+  {
+    "o": "HGH",
+    "d": "CKG",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "HGH",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "CNX",
+      "KUL",
+      "SGN",
+      "HKG"
+    ]
+  },
+  {
+    "o": "HGH",
+    "d": "SIA",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "HGH",
+    "d": "TAO",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "HGH",
+    "d": "XMN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "HIA",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "AUH",
+    "drop": [
+      "MLE"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "BWN",
+    "drop": [
+      "BKK",
+      "SGN",
+      "SIN",
+      "KUL",
+      "JKT"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "DOH",
+    "drop": [
+      "MOW",
+      "RUH",
+      "MLE",
+      "MUC",
+      "IST"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "HEL",
+    "drop": [
+      "LON",
+      "ROM"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "PAR",
+    "drop": [
+      "MAN",
+      "BHX",
+      "LON"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "TAO",
+    "drop": [
+      "INC",
+      "WUH",
+      "HRB",
+      "SHE",
+      "CSX"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "TNA",
+    "drop": [
+      "OSA",
+      "WUH",
+      "CGQ",
+      "SIA",
+      "WNZ"
+    ]
+  },
+  {
+    "o": "HKG",
+    "d": "YVR",
+    "drop": [
+      "NYC",
+      "LAX",
+      "BOS",
+      "SEA"
+    ]
+  },
+  {
+    "o": "HLD",
+    "d": "HGH",
+    "drop": [
+      "MFM",
+      "HKG"
+    ]
+  },
+  {
+    "o": "HNL",
+    "d": "DTT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "HNL",
+    "d": "GUM",
+    "drop": [
+      "NGO",
+      "TYO",
+      "OSA"
+    ]
+  },
+  {
+    "o": "HNL",
+    "d": "MSP",
+    "drop": [
+      "LAS",
+      "NYC",
+      "LAX",
+      "YVR"
+    ]
+  },
+  {
+    "o": "HNL",
+    "d": "SAC",
+    "drop": [
+      "SEA"
+    ]
+  },
+  {
+    "o": "HNL",
+    "d": "SEL",
+    "drop": [
+      "TYO"
+    ]
+  },
+  {
+    "o": "HNL",
+    "d": "SLC",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "HOU",
+    "d": "SLC",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "HRB",
+    "d": "CAN",
+    "drop": [
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "HRB",
+    "d": "CKG",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "HRB",
+    "d": "KMG",
+    "drop": [
+      "HKG",
+      "BKK",
+      "CNX",
+      "KUL"
+    ]
+  },
+  {
+    "o": "HRE",
+    "d": "KGL",
+    "drop": [
+      "NBO"
+    ]
+  },
+  {
+    "o": "HTN",
+    "d": "CTU",
+    "drop": [
+      "CGO"
+    ]
+  },
+  {
+    "o": "IND",
+    "d": "DFW",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "ISB",
+    "d": "DOH",
+    "drop": [
+      "BJS"
+    ]
+  },
+  {
+    "o": "IST",
+    "d": "BAH",
+    "drop": [
+      "RUH"
+    ]
+  },
+  {
+    "o": "IST",
+    "d": "CAN",
+    "drop": [
+      "LHW",
+      "CTU",
+      "SIA",
+      "SHA",
+      "HGH"
+    ]
+  },
+  {
+    "o": "IST",
+    "d": "JRO",
+    "drop": [
+      "DAR"
+    ]
+  },
+  {
+    "o": "IST",
+    "d": "URC",
+    "drop": [
+      "SZX"
+    ]
+  },
+  {
+    "o": "JDZ",
+    "d": "BJS",
+    "drop": [
+      "WUA"
+    ]
+  },
+  {
+    "o": "JKT",
+    "d": "AUH",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "JKT",
+    "d": "DOH",
+    "drop": [
+      "FRA"
+    ]
+  },
+  {
+    "o": "JKT",
+    "d": "DXB",
+    "drop": [
+      "IST",
+      "PAR"
+    ]
+  },
+  {
+    "o": "JKT",
+    "d": "HAK",
+    "drop": [
+      "CSX"
+    ]
+  },
+  {
+    "o": "JKT",
+    "d": "IST",
+    "drop": [
+      "PAR"
+    ]
+  },
+  {
+    "o": "JNB",
+    "d": "IST",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "JNB",
+    "d": "NBO",
+    "drop": [
+      "EBB",
+      "NLA",
+      "HRE",
+      "DAR",
+      "LUN"
+    ]
+  },
+  {
+    "o": "KHI",
+    "d": "DOH",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "KMG",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "KMG",
+    "d": "TAO",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "KMG",
+    "d": "WUH",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "KMG",
+    "d": "YNT",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "KOA",
+    "d": "LAS",
+    "drop": [
+      "HNL"
+    ]
+  },
+  {
+    "o": "KRL",
+    "d": "HGH",
+    "drop": [
+      "CKG",
+      "SIA",
+      "SZX"
+    ]
+  },
+  {
+    "o": "KRL",
+    "d": "WUH",
+    "drop": [
+      "CTU",
+      "CKG",
+      "BJS",
+      "TNA"
+    ]
+  },
+  {
+    "o": "KRL",
+    "d": "XMN",
+    "drop": [
+      "HGH",
+      "DLC",
+      "NKG",
+      "SHE",
+      "TAO"
+    ]
+  },
+  {
+    "o": "KTM",
+    "d": "CMB",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "KUL",
+    "d": "AUH",
+    "drop": [
+      "IST",
+      "LON",
+      "PAR",
+      "CAI"
+    ]
+  },
+  {
+    "o": "KUL",
+    "d": "DOH",
+    "drop": [
+      "DXB",
+      "LON",
+      "IST",
+      "PAR",
+      "CAI"
+    ]
+  },
+  {
+    "o": "KUL",
+    "d": "TNA",
+    "drop": [
+      "CTU",
+      "CKG",
+      "WUH",
+      "SIA"
+    ]
+  },
+  {
+    "o": "KWE",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "KWE",
+    "d": "DLC",
+    "drop": [
+      "TAO"
+    ]
+  },
+  {
+    "o": "KWL",
+    "d": "YNT",
+    "drop": [
+      "SHE"
+    ]
+  },
+  {
+    "o": "LAS",
+    "d": "BWI",
+    "drop": [
+      "CHI"
+    ]
+  },
+  {
+    "o": "LAS",
+    "d": "CLE",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "LAS",
+    "d": "CLT",
+    "drop": [
+      "ORL",
+      "YTO",
+      "CHI",
+      "BOS",
+      "NYC"
+    ]
+  },
+  {
+    "o": "LAS",
+    "d": "SEL",
+    "drop": [
+      "HKG",
+      "CAN",
+      "BJS",
+      "SHA",
+      "SZX"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "AMS",
+    "drop": [
+      "DXB",
+      "LON"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "ATL",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "BWI",
+    "drop": [
+      "BOS"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "CLT",
+    "drop": [
+      "BOS",
+      "FLL",
+      "NYC",
+      "TPA",
+      "BNA"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "CVG",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "DOH",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "DTT",
+    "drop": [
+      "CHI"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "MIA",
+    "drop": [
+      "ORL"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "MUC",
+    "drop": [
+      "IST",
+      "LON",
+      "ROM",
+      "PAR"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "PHL",
+    "drop": [
+      "BOS",
+      "YTO"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "PTY",
+    "drop": [
+      "SJO",
+      "GUA",
+      "SAL",
+      "BOG",
+      "SCL"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "SEL",
+    "drop": [
+      "TPE",
+      "BKK",
+      "HKG",
+      "TYO"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "YEA",
+    "drop": [
+      "YVR"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "YMQ",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "YYC",
+    "drop": [
+      "YVR"
+    ]
+  },
+  {
+    "o": "LAX",
+    "d": "ZRH",
+    "drop": [
+      "LON",
+      "ROM"
+    ]
+  },
+  {
+    "o": "LCA",
+    "d": "DOH",
+    "drop": [
+      "BJS"
+    ]
+  },
+  {
+    "o": "LED",
+    "d": "BJS",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "LHW",
+    "d": "YNT",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "LIM",
+    "d": "ATL",
+    "drop": [
+      "MIA",
+      "BOG",
+      "LAX",
+      "NYC",
+      "YTO"
+    ]
+  },
+  {
+    "o": "LIM",
+    "d": "BOG",
+    "drop": [
+      "SCL"
+    ]
+  },
+  {
+    "o": "LIM",
+    "d": "PTY",
+    "drop": [
+      "SCL",
+      "BOG",
+      "MEX",
+      "MIA",
+      "SAO"
+    ]
+  },
+  {
+    "o": "LIM",
+    "d": "RIO",
+    "drop": [
+      "SAO"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "ATL",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "AUH",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "DFW",
+    "drop": [
+      "ORL"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "DOH",
+    "drop": [
+      "JED",
+      "DXB",
+      "BKK"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "HAK",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "RUH",
+    "drop": [
+      "DXB",
+      "CAI"
+    ]
+  },
+  {
+    "o": "LON",
+    "d": "SZX",
+    "drop": [
+      "SEL",
+      "WNZ"
+    ]
+  },
+  {
+    "o": "LOS",
+    "d": "ADD",
+    "drop": [
+      "EBB",
+      "JNB",
+      "NBO",
+      "CAI",
+      "ACC"
+    ]
+  },
+  {
+    "o": "LOS",
+    "d": "DOH",
+    "drop": [
+      "CAI",
+      "EBB",
+      "NBO"
+    ]
+  },
+  {
+    "o": "LOS",
+    "d": "NBO",
+    "drop": [
+      "EBB",
+      "JNB"
+    ]
+  },
+  {
+    "o": "LOS",
+    "d": "PAR",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "LUN",
+    "d": "DXB",
+    "drop": [
+      "CAN",
+      "SHA"
+    ]
+  },
+  {
+    "o": "LUX",
+    "d": "AMS",
+    "drop": [
+      "GVA",
+      "MIL"
+    ]
+  },
+  {
+    "o": "LUX",
+    "d": "FRA",
+    "drop": [
+      "MIL",
+      "GVA"
+    ]
+  },
+  {
+    "o": "LUX",
+    "d": "ZRH",
+    "drop": [
+      "MIL",
+      "BCN",
+      "GVA",
+      "LON",
+      "ROM"
+    ]
+  },
+  {
+    "o": "LXA",
+    "d": "SHA",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "LYA",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "LYA",
+    "d": "SZX",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "LYG",
+    "d": "CTU",
+    "drop": [
+      "CAN",
+      "KWE"
+    ]
+  },
+  {
+    "o": "LYI",
+    "d": "CKG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "LZH",
+    "d": "BJS",
+    "drop": [
+      "TAO"
+    ]
+  },
+  {
+    "o": "MAD",
+    "d": "ATL",
+    "drop": [
+      "PTY",
+      "SAO",
+      "UIO"
+    ]
+  },
+  {
+    "o": "MAD",
+    "d": "HKG",
+    "drop": [
+      "SZX",
+      "CAN",
+      "CTU",
+      "CKG"
+    ]
+  },
+  {
+    "o": "MAD",
+    "d": "SHA",
+    "drop": [
+      "WNZ",
+      "CGO",
+      "FOC"
+    ]
+  },
+  {
+    "o": "MAN",
+    "d": "AUH",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "MAN",
+    "d": "HKG",
+    "drop": [
+      "CAN",
+      "SZX"
+    ]
+  },
+  {
+    "o": "MEL",
+    "d": "AUH",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "MEL",
+    "d": "BWN",
+    "drop": [
+      "SIN",
+      "HKG",
+      "TYO",
+      "KUL"
+    ]
+  },
+  {
+    "o": "MEL",
+    "d": "CAN",
+    "drop": [
+      "CSX",
+      "HGH",
+      "FOC",
+      "SHE",
+      "DLC"
+    ]
+  },
+  {
+    "o": "MEL",
+    "d": "HAK",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "MEL",
+    "d": "SHA",
+    "drop": [
+      "HRB"
+    ]
+  },
+  {
+    "o": "MEL",
+    "d": "XMN",
+    "drop": [
+      "FOC"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "ATL",
+    "drop": [
+      "SFO"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "BJS",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "DTT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "MUC",
+    "drop": [
+      "BJS",
+      "SHA"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "PTY",
+    "drop": [
+      "LIM"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "SEA",
+    "drop": [
+      "SFO"
+    ]
+  },
+  {
+    "o": "MEX",
+    "d": "SEL",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "MFM",
+    "d": "BJS",
+    "drop": [
+      "HGH"
+    ]
+  },
+  {
+    "o": "MIL",
+    "d": "AUH",
+    "drop": [
+      "SIN",
+      "SHA",
+      "KUL",
+      "BJS",
+      "CAI"
+    ]
+  },
+  {
+    "o": "MIL",
+    "d": "DOH",
+    "drop": [
+      "HGH",
+      "BKK",
+      "SHA",
+      "BJS",
+      "SEL"
+    ]
+  },
+  {
+    "o": "MIL",
+    "d": "HKG",
+    "drop": [
+      "SZX"
+    ]
+  },
+  {
+    "o": "MKC",
+    "d": "PHX",
+    "drop": [
+      "LAX",
+      "SFO"
+    ]
+  },
+  {
+    "o": "MLE",
+    "d": "BAH",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "MLE",
+    "d": "CTU",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "MLE",
+    "d": "DOH",
+    "drop": [
+      "AUH",
+      "BJS",
+      "MCT",
+      "DXB",
+      "CGO"
+    ]
+  },
+  {
+    "o": "MNL",
+    "d": "CTU",
+    "drop": [
+      "XMN",
+      "JJN"
+    ]
+  },
+  {
+    "o": "MNL",
+    "d": "JED",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "MOW",
+    "d": "BAH",
+    "drop": [
+      "DXB",
+      "AUH",
+      "CAI",
+      "DEL"
+    ]
+  },
+  {
+    "o": "MOW",
+    "d": "DOH",
+    "drop": [
+      "PAR",
+      "LON",
+      "BCN"
+    ]
+  },
+  {
+    "o": "MRU",
+    "d": "NBO",
+    "drop": [
+      "JNB",
+      "TNR"
+    ]
+  },
+  {
+    "o": "MSP",
+    "d": "SLC",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "MSP",
+    "d": "STL",
+    "drop": [
+      "BOS"
+    ]
+  },
+  {
+    "o": "MUC",
+    "d": "AUH",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "MUC",
+    "d": "BRU",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "MUC",
+    "d": "HKG",
+    "drop": [
+      "NKG",
+      "CKG",
+      "WUH",
+      "HGH",
+      "CTU"
+    ]
+  },
+  {
+    "o": "NBO",
+    "d": "DOH",
+    "drop": [
+      "EBB",
+      "IST",
+      "DAR",
+      "DXB",
+      "ADD"
+    ]
+  },
+  {
+    "o": "NBO",
+    "d": "JED",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "NBO",
+    "d": "JRO",
+    "drop": [
+      "DAR"
+    ]
+  },
+  {
+    "o": "NCE",
+    "d": "ZRH",
+    "drop": [
+      "GVA"
+    ]
+  },
+  {
+    "o": "NGB",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "NGO",
+    "d": "LHW",
+    "drop": [
+      "CGQ",
+      "TAO",
+      "DLC",
+      "BJS",
+      "CGO"
+    ]
+  },
+  {
+    "o": "NGO",
+    "d": "SIN",
+    "drop": [
+      "MNL",
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "NKG",
+    "d": "BJS",
+    "drop": [
+      "MFM"
+    ]
+  },
+  {
+    "o": "NKG",
+    "d": "CAN",
+    "drop": [
+      "BKK",
+      "SGN"
+    ]
+  },
+  {
+    "o": "NKG",
+    "d": "CTU",
+    "drop": [
+      "HKG",
+      "SGN"
+    ]
+  },
+  {
+    "o": "NKG",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "CNX",
+      "KUL",
+      "SGN"
+    ]
+  },
+  {
+    "o": "NKG",
+    "d": "SZX",
+    "drop": [
+      "BKK",
+      "SIN",
+      "SGN"
+    ]
+  },
+  {
+    "o": "NLA",
+    "d": "ADD",
+    "drop": [
+      "LUN"
+    ]
+  },
+  {
+    "o": "NNG",
+    "d": "SHA",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "AMS",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "AUH",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "BEG",
+    "drop": [
+      "ROM"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "DOH",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "MEX",
+    "drop": [
+      "CUN"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "MKC",
+    "drop": [
+      "ORL"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "MUC",
+    "drop": [
+      "DUB",
+      "PAR",
+      "BCN",
+      "IST",
+      "MAD"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "OPO",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "PTY",
+    "drop": [
+      "BOG",
+      "GYE",
+      "LIM",
+      "POS"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "SEL",
+    "drop": [
+      "BKK",
+      "HKG",
+      "TPE"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "VIE",
+    "drop": [
+      "ATH",
+      "LON",
+      "MIL"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "YOW",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "NYC",
+    "d": "ZRH",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "ORL",
+    "d": "PTY",
+    "drop": [
+      "LIM"
+    ]
+  },
+  {
+    "o": "OSA",
+    "d": "CAN",
+    "drop": [
+      "XMN",
+      "YIH",
+      "CTU",
+      "NKG",
+      "WUH"
+    ]
+  },
+  {
+    "o": "OSA",
+    "d": "SFO",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "OSA",
+    "d": "SHE",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "OSA",
+    "d": "TAO",
+    "drop": [
+      "HKG",
+      "BKK",
+      "SGN",
+      "HAN",
+      "SEL"
+    ]
+  },
+  {
+    "o": "OSA",
+    "d": "TNA",
+    "drop": [
+      "HKG",
+      "SIN",
+      "SEL",
+      "WUH",
+      "DLC"
+    ]
+  },
+  {
+    "o": "OSL",
+    "d": "BJS",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "AUH",
+    "drop": [
+      "NBO",
+      "TPE",
+      "HKG",
+      "BKK"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "BJS",
+    "drop": [
+      "BKK",
+      "KMG",
+      "TAO",
+      "SZX",
+      "CTU"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "DOH",
+    "drop": [
+      "DEL",
+      "ALA",
+      "ALG",
+      "DXB",
+      "EVN"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "HAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "HKG",
+    "drop": [
+      "SZX",
+      "TPE",
+      "CAN"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "SHA",
+    "drop": [
+      "NKG",
+      "CNX",
+      "HKG"
+    ]
+  },
+  {
+    "o": "PAR",
+    "d": "TPE",
+    "drop": [
+      "BJS",
+      "SHA",
+      "HKG"
+    ]
+  },
+  {
+    "o": "PHL",
+    "d": "DTT",
+    "drop": [
+      "CHI"
+    ]
+  },
+  {
+    "o": "PHX",
+    "d": "LAS",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "PIT",
+    "d": "CLT",
+    "drop": [
+      "NYC",
+      "SEA"
+    ]
+  },
+  {
+    "o": "PIT",
+    "d": "SLC",
+    "drop": [
+      "SEA"
+    ]
+  },
+  {
+    "o": "POS",
+    "d": "PTY",
+    "drop": [
+      "MIA"
+    ]
+  },
+  {
+    "o": "PRG",
+    "d": "WAW",
+    "drop": [
+      "PAR",
+      "BUH",
+      "BRU",
+      "LON",
+      "ROM"
+    ]
+  },
+  {
+    "o": "PTY",
+    "d": "IST",
+    "drop": [
+      "MAD"
+    ]
+  },
+  {
+    "o": "RDU",
+    "d": "CLT",
+    "drop": [
+      "NYC",
+      "CHI",
+      "SFO"
+    ]
+  },
+  {
+    "o": "REK",
+    "d": "VIE",
+    "drop": [
+      "MIL",
+      "PAR",
+      "OSL",
+      "BUD",
+      "LON"
+    ]
+  },
+  {
+    "o": "RIO",
+    "d": "LIM",
+    "drop": [
+      "BUE"
+    ]
+  },
+  {
+    "o": "RIZ",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "ROC",
+    "d": "BOS",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "ROM",
+    "d": "AUH",
+    "drop": [
+      "KUL",
+      "MLE",
+      "BKK",
+      "BJS"
+    ]
+  },
+  {
+    "o": "ROM",
+    "d": "DOH",
+    "drop": [
+      "DXB",
+      "BKK",
+      "BJS",
+      "KUL",
+      "SHA"
+    ]
+  },
+  {
+    "o": "ROM",
+    "d": "HKG",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "ROM",
+    "d": "SZX",
+    "drop": [
+      "HGH",
+      "BJS",
+      "WNZ"
+    ]
+  },
+  {
+    "o": "RUH",
+    "d": "SHA",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "SAN",
+    "d": "ATL",
+    "drop": [
+      "CHI"
+    ]
+  },
+  {
+    "o": "SAN",
+    "d": "CLT",
+    "drop": [
+      "BOS"
+    ]
+  },
+  {
+    "o": "SAN",
+    "d": "DTT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SAN",
+    "d": "LAX",
+    "drop": [
+      "SFO"
+    ]
+  },
+  {
+    "o": "SAN",
+    "d": "PHL",
+    "drop": [
+      "BOS"
+    ]
+  },
+  {
+    "o": "SAO",
+    "d": "ADD",
+    "drop": [
+      "PAR"
+    ]
+  },
+  {
+    "o": "SAO",
+    "d": "ATL",
+    "drop": [
+      "BOG",
+      "NYC",
+      "YTO",
+      "LAX"
+    ]
+  },
+  {
+    "o": "SAO",
+    "d": "BOG",
+    "drop": [
+      "LIM"
+    ]
+  },
+  {
+    "o": "SAO",
+    "d": "DFW",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "SAO",
+    "d": "HOU",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "SAO",
+    "d": "PTY",
+    "drop": [
+      "MEX",
+      "LIM",
+      "BOG",
+      "ORL"
+    ]
+  },
+  {
+    "o": "SAV",
+    "d": "ATL",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SCL",
+    "d": "MEX",
+    "drop": [
+      "SAO",
+      "YTO"
+    ]
+  },
+  {
+    "o": "SCL",
+    "d": "MIA",
+    "drop": [
+      "SAO"
+    ]
+  },
+  {
+    "o": "SCL",
+    "d": "PTY",
+    "drop": [
+      "LIM",
+      "YTO",
+      "BUE"
+    ]
+  },
+  {
+    "o": "SEA",
+    "d": "CLT",
+    "drop": [
+      "CHI"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "ATL",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "AUH",
+    "drop": [
+      "ROM",
+      "LON",
+      "PAR",
+      "IST",
+      "FRA"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "BWN",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "DOH",
+    "drop": [
+      "IST"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "DPS",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "DTT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "HAK",
+    "drop": [
+      "CKG"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "HEL",
+    "drop": [
+      "PAR",
+      "ROM",
+      "LON",
+      "MIL"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "KMG",
+    "drop": [
+      "NGB",
+      "CGQ",
+      "YIW",
+      "SHE",
+      "HGH"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "MSP",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "MUC",
+    "drop": [
+      "BCN",
+      "FRA",
+      "PAR"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "TNA",
+    "drop": [
+      "BKK",
+      "KUL",
+      "HAN",
+      "SIN"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "WAW",
+    "drop": [
+      "ROM"
+    ]
+  },
+  {
+    "o": "SEL",
+    "d": "YTO",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "SEZ",
+    "d": "NBO",
+    "drop": [
+      "JNB",
+      "TNR"
+    ]
+  },
+  {
+    "o": "SFO",
+    "d": "ATL",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SFO",
+    "d": "CLT",
+    "drop": [
+      "NYC",
+      "BOS",
+      "CHI",
+      "DTT",
+      "MKC"
+    ]
+  },
+  {
+    "o": "SFO",
+    "d": "DTT",
+    "drop": [
+      "CHI",
+      "YTO",
+      "NYC"
+    ]
+  },
+  {
+    "o": "SFO",
+    "d": "MUC",
+    "drop": [
+      "LON",
+      "PAR"
+    ]
+  },
+  {
+    "o": "SFO",
+    "d": "PHL",
+    "drop": [
+      "BOS"
+    ]
+  },
+  {
+    "o": "SFO",
+    "d": "YEA",
+    "drop": [
+      "YVR"
+    ]
+  },
+  {
+    "o": "SGN",
+    "d": "SZX",
+    "drop": [
+      "CGO"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "BAH",
+    "drop": [
+      "DXB",
+      "IST",
+      "DOH",
+      "MUC",
+      "MOW"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "DEL",
+    "drop": [
+      "KTM",
+      "MLE"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "DFW",
+    "drop": [
+      "SAN",
+      "BOS",
+      "LAS",
+      "AUS",
+      "SEA"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "DOH",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "DTT",
+    "drop": [
+      "DSM",
+      "NYC",
+      "LAX",
+      "SAV",
+      "SFO"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "HEL",
+    "drop": [
+      "MIL",
+      "BRU",
+      "LON",
+      "MAN",
+      "VIE"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "PAR",
+    "drop": [
+      "MUC"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "SEA",
+    "drop": [
+      "LAX",
+      "NYC",
+      "BNA",
+      "CLE",
+      "SFO"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "TNA",
+    "drop": [
+      "SGN"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "WUH",
+    "drop": [
+      "SGN",
+      "BKK",
+      "HAN",
+      "KTI",
+      "KUL"
+    ]
+  },
+  {
+    "o": "SHA",
+    "d": "YVR",
+    "drop": [
+      "SFO",
+      "SEA"
+    ]
+  },
+  {
+    "o": "SHE",
+    "d": "CAN",
+    "drop": [
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "SHE",
+    "d": "CKG",
+    "drop": [
+      "SIN"
+    ]
+  },
+  {
+    "o": "SHE",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "KUL",
+      "HKT",
+      "CNX"
+    ]
+  },
+  {
+    "o": "SHE",
+    "d": "SZX",
+    "drop": [
+      "SIN",
+      "KUL",
+      "BKK"
+    ]
+  },
+  {
+    "o": "SHE",
+    "d": "ZUH",
+    "drop": [
+      "FOC"
+    ]
+  },
+  {
+    "o": "SIA",
+    "d": "CAN",
+    "drop": [
+      "BKK",
+      "HAN"
+    ]
+  },
+  {
+    "o": "SIA",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "SIA",
+    "d": "WUX",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "SIA",
+    "d": "YNT",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "SIN",
+    "d": "BAH",
+    "drop": [
+      "LON",
+      "ATH",
+      "IST"
+    ]
+  },
+  {
+    "o": "SIN",
+    "d": "BWN",
+    "drop": [
+      "BKI",
+      "BPN",
+      "KCH",
+      "HKG"
+    ]
+  },
+  {
+    "o": "SIN",
+    "d": "CMB",
+    "drop": [
+      "MLE"
+    ]
+  },
+  {
+    "o": "SIN",
+    "d": "TNA",
+    "drop": [
+      "CTU",
+      "WUH",
+      "SHA",
+      "SIA",
+      "XMN"
+    ]
+  },
+  {
+    "o": "SJC",
+    "d": "ATL",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SJC",
+    "d": "PHX",
+    "drop": [
+      "LAS"
+    ]
+  },
+  {
+    "o": "SLC",
+    "d": "ATL",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SLC",
+    "d": "CLT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SLC",
+    "d": "DTT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SLC",
+    "d": "SAC",
+    "drop": [
+      "LAS"
+    ]
+  },
+  {
+    "o": "SPK",
+    "d": "HKG",
+    "drop": [
+      "TPE"
+    ]
+  },
+  {
+    "o": "STL",
+    "d": "SLC",
+    "drop": [
+      "SEA"
+    ]
+  },
+  {
+    "o": "SVQ",
+    "d": "MUC",
+    "drop": [
+      "BCN"
+    ]
+  },
+  {
+    "o": "SVQ",
+    "d": "ZRH",
+    "drop": [
+      "OPO"
+    ]
+  },
+  {
+    "o": "SWA",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "KUL"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "AUH",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "CAN",
+    "drop": [
+      "SHE",
+      "TSN",
+      "CSX",
+      "SIA",
+      "DLC"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "HAK",
+    "drop": [
+      "BKK",
+      "SIN"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "HGH",
+    "drop": [
+      "TAO"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "NKG",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "SHA",
+    "drop": [
+      "HRB",
+      "WUH"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "SIA",
+    "drop": [
+      "SIN",
+      "CAN",
+      "KUL",
+      "TAO",
+      "HGH"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "SZX",
+    "drop": [
+      "HGH",
+      "NKG",
+      "WUH",
+      "SHA",
+      "CGO"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "TYO",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "SYD",
+    "d": "WUH",
+    "drop": [
+      "BJS",
+      "CTU"
+    ]
+  },
+  {
+    "o": "SYR",
+    "d": "DTT",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SYR",
+    "d": "WAS",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "SZX",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "SGN"
+    ]
+  },
+  {
+    "o": "SZX",
+    "d": "YNT",
+    "drop": [
+      "CGQ"
+    ]
+  },
+  {
+    "o": "TAO",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "KUL",
+      "CNX"
+    ]
+  },
+  {
+    "o": "TAO",
+    "d": "SIA",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "TAO",
+    "d": "SWA",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "TAO",
+    "d": "XMN",
+    "drop": [
+      "MFM"
+    ]
+  },
+  {
+    "o": "TNA",
+    "d": "CAN",
+    "drop": [
+      "HAN"
+    ]
+  },
+  {
+    "o": "TNA",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "HAN",
+      "KUL",
+      "CNX"
+    ]
+  },
+  {
+    "o": "TNA",
+    "d": "SWA",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "TNR",
+    "d": "ADD",
+    "drop": [
+      "JNB",
+      "NBO",
+      "SEZ"
+    ]
+  },
+  {
+    "o": "TNR",
+    "d": "NBO",
+    "drop": [
+      "MRU",
+      "JNB"
+    ]
+  },
+  {
+    "o": "TPA",
+    "d": "MIA",
+    "drop": [
+      "LAS",
+      "NYC"
+    ]
+  },
+  {
+    "o": "TPE",
+    "d": "AUH",
+    "drop": [
+      "IST",
+      "LON",
+      "AMS"
+    ]
+  },
+  {
+    "o": "TPE",
+    "d": "NGB",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "TPE",
+    "d": "TAO",
+    "drop": [
+      "SEL",
+      "BJS"
+    ]
+  },
+  {
+    "o": "TSN",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "TSN",
+    "d": "CTU",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "TSN",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "TSN",
+    "d": "SHA",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "TSN",
+    "d": "SZX",
+    "drop": [
+      "SIN",
+      "BKK"
+    ]
+  },
+  {
+    "o": "TYN",
+    "d": "BJS",
+    "drop": [
+      "LJG",
+      "NNG",
+      "SWA",
+      "CAN",
+      "CKG"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "AUH",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "BOM",
+    "drop": [
+      "DXB"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "BWN",
+    "drop": [
+      "SGN"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "CAN",
+    "drop": [
+      "SYX",
+      "KHN",
+      "CSX",
+      "SIA",
+      "CGO"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "DEN",
+    "drop": [
+      "LAS"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "DFW",
+    "drop": [
+      "HNL"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "JKT",
+    "drop": [
+      "BKK",
+      "SIN",
+      "HKG",
+      "KUL",
+      "CAN"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "YMQ",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "TYO",
+    "d": "YTO",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "URC",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "URC",
+    "d": "XMN",
+    "drop": [
+      "KWE",
+      "CSX",
+      "HGH",
+      "YNT",
+      "DLC"
+    ]
+  },
+  {
+    "o": "VIE",
+    "d": "CTU",
+    "drop": [
+      "BJS",
+      "CAN"
+    ]
+  },
+  {
+    "o": "VIE",
+    "d": "GVA",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "VIE",
+    "d": "SZX",
+    "drop": [
+      "CKG"
+    ]
+  },
+  {
+    "o": "VIE",
+    "d": "ZRH",
+    "drop": [
+      "BRU",
+      "PAR",
+      "MIL",
+      "STO",
+      "STR"
+    ]
+  },
+  {
+    "o": "VLC",
+    "d": "ZRH",
+    "drop": [
+      "SVQ"
+    ]
+  },
+  {
+    "o": "WAS",
+    "d": "DTT",
+    "drop": [
+      "BOS"
+    ]
+  },
+  {
+    "o": "WAS",
+    "d": "SEL",
+    "drop": [
+      "HKG"
+    ]
+  },
+  {
+    "o": "WAS",
+    "d": "YMQ",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "WAS",
+    "d": "YOW",
+    "drop": [
+      "YTO"
+    ]
+  },
+  {
+    "o": "WAW",
+    "d": "DOH",
+    "drop": [
+      "DXB",
+      "BJS"
+    ]
+  },
+  {
+    "o": "WNZ",
+    "d": "HKG",
+    "drop": [
+      "TPE"
+    ]
+  },
+  {
+    "o": "WNZ",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "HKG"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "CAN",
+    "drop": [
+      "BKK",
+      "SGN"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "CGQ",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "HRB",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "JUZ",
+    "drop": [
+      "CTU"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "SHA",
+    "drop": [
+      "BKK",
+      "SGN"
+    ]
+  },
+  {
+    "o": "WUH",
+    "d": "SHE",
+    "drop": [
+      "SEL"
+    ]
+  },
+  {
+    "o": "WUX",
+    "d": "BJS",
+    "drop": [
+      "HKG",
+      "MFM",
+      "BKK",
+      "SEL"
+    ]
+  },
+  {
+    "o": "WUX",
+    "d": "CAN",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "WUX",
+    "d": "KMG",
+    "drop": [
+      "BKK",
+      "HKG",
+      "KUL"
+    ]
+  },
+  {
+    "o": "WUX",
+    "d": "SZX",
+    "drop": [
+      "BKK",
+      "SIN"
+    ]
+  },
+  {
+    "o": "XMN",
+    "d": "CAN",
+    "drop": [
+      "BKK",
+      "SGN"
+    ]
+  },
+  {
+    "o": "XMN",
+    "d": "KMG",
+    "drop": [
+      "SGN"
+    ]
+  },
+  {
+    "o": "XMN",
+    "d": "YNT",
+    "drop": [
+      "SHE"
+    ]
+  },
+  {
+    "o": "XUZ",
+    "d": "SWA",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "YIW",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "YMQ",
+    "d": "CLT",
+    "drop": [
+      "LAX"
+    ]
+  },
+  {
+    "o": "YMQ",
+    "d": "DOH",
+    "drop": [
+      "SHA"
+    ]
+  },
+  {
+    "o": "YNT",
+    "d": "KMG",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "YNT",
+    "d": "KWL",
+    "drop": [
+      "XMN"
+    ]
+  },
+  {
+    "o": "YNT",
+    "d": "XMN",
+    "drop": [
+      "KMG",
+      "KWE",
+      "CKG",
+      "CSX",
+      "CTU"
+    ]
+  },
+  {
+    "o": "YOW",
+    "d": "YMQ",
+    "drop": [
+      "NYC"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "ATL",
+    "drop": [
+      "ORL"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "CLT",
+    "drop": [
+      "ORL",
+      "CHI"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "CMN",
+    "drop": [
+      "PAR"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "DOH",
+    "drop": [
+      "CAN"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "DTT",
+    "drop": [
+      "NYC",
+      "CHI",
+      "WAS"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "HKG",
+    "drop": [
+      "DEL",
+      "SIN",
+      "WNZ"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "LIS",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "YTO",
+    "d": "PTY",
+    "drop": [
+      "RIO"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "AMS",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "DEL",
+    "drop": [
+      "BKK"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "DEN",
+    "drop": [
+      "LAX",
+      "SFO",
+      "SEA",
+      "PHX",
+      "SAN"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "DFW",
+    "drop": [
+      "LAX",
+      "BOS",
+      "SFO",
+      "NYC"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "HKG",
+    "drop": [
+      "CSX",
+      "WNZ"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "MSP",
+    "drop": [
+      "BOS",
+      "SFO",
+      "NYC",
+      "ORL",
+      "ATL"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "PAR",
+    "drop": [
+      "LON"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "SLC",
+    "drop": [
+      "PHX",
+      "CHI",
+      "NYC",
+      "ORL",
+      "ATL"
+    ]
+  },
+  {
+    "o": "YVR",
+    "d": "XMN",
+    "drop": [
+      "WUH",
+      "HGH",
+      "NKG"
+    ]
+  },
+  {
+    "o": "YYC",
+    "d": "SLC",
+    "drop": [
+      "SFO",
+      "LAX"
+    ]
+  },
+  {
+    "o": "ZRH",
+    "d": "AMS",
+    "drop": [
+      "LON",
+      "BER",
+      "BCN",
+      "ROM"
+    ]
+  },
+  {
+    "o": "ZRH",
+    "d": "HKG",
+    "drop": [
+      "WNZ",
+      "XMN",
+      "CAN",
+      "CTU",
+      "BJS"
+    ]
+  },
+  {
+    "o": "ZRH",
+    "d": "MIL",
+    "drop": [
+      "ROM"
+    ]
+  },
+  {
+    "o": "ZRH",
+    "d": "MUC",
+    "drop": [
+      "BER",
+      "IST",
+      "DUS",
+      "CGN",
+      "BCN"
+    ]
+  },
+  {
+    "o": "ZRH",
+    "d": "VIE",
+    "drop": [
+      "BER",
+      "ATH",
+      "BCN",
+      "LON",
+      "ROM"
+    ]
+  },
+  {
+    "o": "ZUH",
+    "d": "SHE",
+    "drop": [
+      "TAO"
+    ]
+  },
+  {
+    "o": "ZUH",
+    "d": "TAO",
+    "drop": [
+      "TYN",
+      "DLC",
+      "SHA",
+      "SHE",
+      "CGQ"
+    ]
+  },
+  {
+    "o": "ZUH",
+    "d": "TNA",
+    "drop": [
+      "SIA",
+      "SEL"
+    ]
+  }
+]
