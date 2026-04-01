@@ -8,6 +8,12 @@ metadata:
       - python3
     npm:
       - "@fly-ai/flyai-cli"
+  network:
+    - "https://a.feizhu.com"      # 飞猪 API
+    - "https://api.qrserver.com"   # 二维码生成
+  security:
+    cli_audit: "https://www.npmjs.com/package/@fly-ai/flyai-cli"
+    data_privacy: "航班查询数据发送至飞猪服务器，不保留用户查询历史"
 ---
 
 # 捡漏机票 - 智能搜索，同样目的地花更少的钱
@@ -18,6 +24,34 @@ metadata:
 ```bash
 npm i -g @fly-ai/flyai-cli
 flyai --help  # 验证安装
+```
+
+### 🔐 安全审计
+
+**flyai CLI 来源**：
+- NPM 包：https://www.npmjs.com/package/@fly-ai/flyai-cli
+- 维护者：FlyAI Team
+- 用途：飞猪航班数据查询
+
+**网络活动**：
+| 服务 | 用途 | 数据发送 |
+|------|------|---------|
+| `a.feizhu.com` | 航班查询 | 出发地、目的地、日期 |
+| `api.qrserver.com` | 二维码生成 | 预订链接 |
+
+**隐私说明**：
+- 航班查询数据发送至飞猪服务器
+- 飞猪不保留用户查询历史（详见飞猪隐私政策）
+- 二维码通过第三方 API 生成，不含个人信息
+
+**建议安装方式**：
+```bash
+# 方式1：全局安装（推荐日常使用）
+npm i -g @fly-ai/flyai-cli
+
+# 方式2：本地安装（更安全，需在 skill 目录执行）
+npm i @fly-ai/flyai-cli
+./node_modules/.bin/flyai --help
 ```
 
 ## 什么是捡漏机票
