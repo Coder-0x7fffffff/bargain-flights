@@ -20,10 +20,12 @@ metadata:
 
 ## 前置依赖
 
-本技能依赖 `flyai-cli` 获取实时航班数据：
+本技能依赖 `flyai-cli` 获取实时航班数据。
+
 ```bash
-npm i -g @fly-ai/flyai-cli
-flyai --help  # 验证安装
+cd ~/.openclaw/workspace/skills/bargain-flights
+npm install
+./node_modules/.bin/flyai --help  # 验证安装
 ```
 
 ### 🔐 安全审计
@@ -44,14 +46,10 @@ flyai --help  # 验证安装
 - 飞猪不保留用户查询历史（详见飞猪隐私政策）
 - 二维码通过第三方 API 生成，不含个人信息
 
-**建议安装方式**：
+**安装方式**：
 ```bash
-# 方式1：全局安装（推荐日常使用）
-npm i -g @fly-ai/flyai-cli
-
-# 方式2：本地安装（更安全，需在 skill 目录执行）
-npm i @fly-ai/flyai-cli
-./node_modules/.bin/flyai --help
+cd ~/.openclaw/workspace/skills/bargain-flights
+npm install
 ```
 
 ## 什么是捡漏机票
